@@ -1,0 +1,13 @@
+C:\Users\shebanits.vitaliy\Documents\Visual Studio 2010\Projects\thisApp\thisApp\bin\Release\thisApp.exe.config
+C:\Users\shebanits.vitaliy\Documents\Visual Studio 2010\Projects\thisApp\thisApp\obj\x86\Release\ReadAndVerify.adminDocuments.resources
+C:\Users\shebanits.vitaliy\Documents\Visual Studio 2010\Projects\thisApp\thisApp\obj\x86\Release\ReadAndVerify.adminUsers.resources
+C:\Users\shebanits.vitaliy\Documents\Visual Studio 2010\Projects\thisApp\thisApp\obj\x86\Release\ReadAndVerify.Authentication.resources
+C:\Users\shebanits.vitaliy\Documents\Visual Studio 2010\Projects\thisApp\thisApp\obj\x86\Release\ReadAndVerify.createNew.resources
+C:\Users\shebanits.vitaliy\Documents\Visual Studio 2010\Projects\thisApp\thisApp\obj\x86\Release\ReadAndVerify.createUser.resources
+C:\Users\shebanits.vitaliy\Documents\Visual Studio 2010\Projects\thisApp\thisApp\obj\x86\Release\ReadAndVerify.Form1.resources
+C:\Users\shebanits.vitaliy\Documents\Visual Studio 2010\Projects\thisApp\thisApp\obj\x86\Release\ReadAndVerify.main.resources
+C:\Users\shebanits.vitaliy\Documents\Visual Studio 2010\Projects\thisApp\thisApp\obj\x86\Release\thisApp.Properties.Resources.resources
+C:\Users\shebanits.vitaliy\Documents\Visual Studio 2010\Projects\thisApp\thisApp\obj\x86\Release\ReadAndVerify.Registration.resources
+C:\Users\shebanits.vitaliy\Documents\Visual Studio 2010\Projects\thisApp\thisApp\obj\x86\Release\ReadAndVerify.zkt.resources
+C:\Users\shebanits.vitaliy\Documents\Visual Studio 2010\Projects\thisApp\thisApp\obj\x86\Release\ReadAndVerify.zkt2.resources
+C:\Users\shebanits.vitaliy\Documents\Visual Studio 2010\Projects\thisApp\thisApp\obj\x86\Release\thisApp.csproj.GenerateResource.Cache

@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<head>
+  <User id="1">
+    <username>Шебаниц Виталий Сергеевич</username>
+    <login>MACTEPwar</login>
+    <password>SmFTUzIxAAADIiMECAUHCc7QAAAQI2oBAAAAg88ZiSKzAA8NpgBrABAveQDbAGwPjQCRIvkPZQD4AJ0PxCJMAJAPLgCgAPUpWgA0AAQPJQA/IpcMlgC5AE4NdyKOAHwPxQB0AJEtkQBWAAsPoABTIn0PbQATAScPvSIYASkP/ACjAKQufACiAHoObADUIo0PeADuADkPRiLUAGAP8ABdAJkumwA4AIgPSgAlIzUFewArAfoJiqYUlW3/1YksB3GiVHFuFeZfQ380J5aCFV1de8ft2d6CCWuGtwG6f2jVs4iX+4N/lwgU024TjXzdeVMRNicvboKHdoCOCGgqR4T+k3N+f3gJUfb3yadVj6/qzNYOn8/vgxHiDWw5LG21ASbxWwGxWNL8RZHxpRceQCom9TdmUwl29VypR3wL+WsPAPXhdEIMOQ3tXzbq3N6YCyAsAQERGOwrAaUMBv8uvQoDtwwQwFf//r4KA00TAP8yU//KAFQ89v4wwMD/BcDD4k8RAFEo/QUwVuL/ZC8DAEnpcPwnAV4y+ikGxVY2X8NcCQBdOMPAw+JW/hMANkYyL0l1R0tkBgBhi4OL4wIAaVIA/8AAYnd7wIUMAJKQ/SvdR1sMAJFaycD94/5E/mwRAPVn+Xk/PkzB/cHQABld6P7/RkbAOj5b4j8EAHOPgEEVAzaT6T3ALz87RMN2/hQAGJzph/4zdj7//1MIAL6jeUt5CgCgrYlVgXcqAaitDzvBjg8D5qyXeMLAh0FbFSIQrub/wP8E/TjjN/3BQv7BOwsDr7APwf7+RDpTDSLDsZPC/8IEbsJawAkAqLIWBT5BJQGFs31+dsMAyZYdU8ALAKYTkMGyw5L/BwB3G23B4ogLAHvs+gX5/Nz+wMDA/xLFNdjE/8Ev/f/+Ov784j/ABQBl+5LBbzEBL/3aT//0//0K/kbAAxCMxHfFKBFsEdb++Tn6/OM0ERA5EtA4wf3d//zB/f7/OP9FJhFqGVBKEdVCJvH+wMD6w/85/h0cwQcQczTTOvv33P4QEFI30AVV/tv++/79SsHJELEVrML/wsXKB8PDYA==</password>
+    <readOn />
+    <readOff>
+      <document id="1" />
+      <document id="2" />
+      <document id="3" />
+      <document id="4" />
+      <document id="5" />
+      <document id="6" />
+      <document id="7" />
+      <document id="8" />
+      <document id="9" />
+      <document id="10" />
+    </readOff>
+  </User>
+  <User id="2">
+    <username>Господин никто</username>
+    <login>IVikT0</login>
+    <password>S4tTUzIxAAACyM0ECAUHCc7QAAARyWoBAAAAgnUUhsgIAQ8PUgAQAH7HQAD5AHYPeQAryRgL1gAWAVMP2civAJUIEQAMAPXBoADxAIsPQAApyYYPWQC6AMQPoMhAARwMXQBLAHzHDgDbAHoJGQBCyZkPtgABAdIPe8i9AIQLOgAkAP7HswBAARoLDwBDyZsPNwCZAD4NsEFXhm/5cYMUf1jCwH7e/qP/fAKTS0+EUnyCguMDScc+g2cTzX1m/GU3EHdafid3f3kUpQ5tyYeCfIOHY8xHBQKVeoaDfy02zIUOgx8HoAGASmuDBY+CgmMCgExmCKcKuYq0gwhP5ABpgjkCIAVrSpCDen6n/CYHXioGICwBAbfS+AXInHIJ/kr+zgCAuwL9wEL/RMAAer+Hwv3EDABFeQ0I/sDAVP9qywA5SPb/Mv/+ZJwEApKOgMHDEQD9iP/1Tf7CUcA/1wA4UfzAwf4rwAVYQIgXAA6x5Pw6/sMIOlVKwP9TBQoCv7iMlGp/FsUJvyM0/17+Wf0EWP2cDAB/vgxChlFJ3QEVyvdU/qf9RQk+wUUIAFETgHoKwMUWAATXMsBGi/5E/sDARTpqEMg93v3C/Fc6wEE3RFsEADXjv4QKyDzlAFdHBsU99LLAhBEARfg4REbjwMBU/gYA+/12vMAPALD+k7rBaDd0kQMQuADW/wHYtgUawgUQQwoNCDcFENsZGq4WEs8k4jBH/kLswFEIVAMQvygXOgsSSyqJfMPAwAZ9Adi8LRzBEhDCNN42/jvB/UHAOv//tgwQnjyTwUbBiQqOBRCmPxqgAxJrQhzAEhAAgeRZNv5A/j44wcAQt4wbwEcDEOGBHMLNEdFGGsDAOhUSz0zXMf//QDjA/An+/m1UCxBgVZgKe4jCwAoQWleUCcCRwsDDDtUfVSgu/in///2cBBKfWPQpBxCUnZOKUg==</password>
+    <readOn>
+      <document id="9" />
+    </readOn>
+    <readOff>
+      <document id="1" />
+      <document id="2" />
+      <document id="3" />
+      <document id="4" />
+      <document id="5" />
+      <document id="6" />
+      <document id="7" />
+      <document id="8" />
+      <document id="10" />
+    </readOff>
+  </User>
+  <User id="3">
+    <username>123</username>
+    <login>123</login>
+    <password>SDRTUzIxAAABd3YECAUHCc7QAAASdmoBAAAAgZoKq3cQAfEP5QAeAHV42AC4APcPpABXdmwHcQAAAakNtXeqAO0J4QD8AQF7YAAKAesENwDgd/oPSwDnACQGHvCq8xcLHXgHfa78v4UaDrf8EofedPZ/fYGuj+Z/o422e7P3GxOOB0L4gIFCDpv/3IgycyYTyvq6d3bzCfUhFgEA3wy0CgHBmnrEwv5zmwoBwaBpwVJRwcgA3tN1a35aWQ7F7aoNwsH+wMNCBEoGd36vZv9+wsYA+cR7wRABAr24wv/zcnv+wsAQxArJDUh0af9owcEBE6Z2gQ0A5dq/foQkVg4A5+BwBP7CicNYwMBbEcQS7/GBfP/B/8EFW8F/AAn2esDABcNSZgAS+3A3Yplc/ojCDxERCXSBe8MSw/3BDxES03RDBWr/XA8RDeKAdQ9aZMEOEQ30gMEJw//AXGAD1eQ4d8ELEP1CgDqQch0HEPVKfWcEBBGbVYOH</password>
+    <readOn />
+    <readOff>
+      <document id="1" />
+      <document id="2" />
+      <document id="3" />
+      <document id="4" />
+      <document id="5" />
+      <document id="6" />
+      <document id="7" />
+      <document id="8" />
+      <document id="9" />
+      <document id="10" />
+    </readOff>
+  </User>
+  <User id="4">
+    <username>321</username>
+    <login>211</login>
+    <password>S9BTUzIxAAACk5AECAUHCc7QAAARkmoBAAAAgr4UqpOnAH8PbQB0APWcnABfAP0KpwBfk2gNigDwAMYP2ZNoAAYPLgChAOiQfQCEAPkLYADMkw0OlwDeAMkOUJNqAOgNmQCAAPWcZAD/AHEGfwAEkhUGiAB2ALAKVZOCAPIOoQAgAIudugDcAIoLswBHk/MP+QCXAMsLROWeijf2WwD+BYHoPAviiB8MvIH062d6WfptfiuWpWkCCxMTngV2+ZESZIUKCTOQFAG/FYyHjIdRAQgKfxLQ+iIBxf/PBdkWA3L7ZwPr144sHP4RaX3qeGMPR52T+VqKkH8EfmcZjINpA3aBK4iMbqr0HwrvkxaHO+AMIC0BAYLWZgaTnCp3VwYAey6BB8AHAMkyd6JMBpNuNHSDBACDVOnPBQBMOmt4wwDirofCwloHALRJcuM3DADwSoxNwP3owMERAPxXScHA98PC/cFvPcAAXc9qwioIAJ+a+kRSNQkAkGd0OsJmyAUA32cAL8AAnPv8RAQA32zJVgaThHR3bwsASHX41cH//0cIAEB7cm3DWsEMAH5B98JsP//AShEANpWNUcFuWW7B/7QKAjaig3fC/2vNAK81Av8/SgUAYKh/U3YTAQywlr3Abf1YcP4SAQl/k8Lna8F4fmERxTfIY1k/S8H9QjoGAjrQCT//EQDy1e/W//5dwP3/Bf7AbQsAutuJeEVmBZOa3AY9UhDF9twDW8GEwMDCr8AFk5LfgINgD8U+535Q/v9FKUvAAKR2CEEHAJ7nRn91lgGO7QAwBcWG8+nD/sIFAI42AzqYEdMLj8L+BMGKzggQWhD0wfYwCoNkFPT//zU7BhL4G/c8/wUQvB71bS8DEIEj/Ts=</password>
+    <readOn />
+    <readOff>
+      <document id="1" />
+      <document id="2" />
+      <document id="3" />
+      <document id="4" />
+      <document id="5" />
+      <document id="6" />
+      <document id="7" />
+      <document id="8" />
+      <document id="9" />
+      <document id="10" />
+    </readOff>
+  </User>
+  <User id="5">
+    <username>1</username>
+    <login>1</login>
+    <password>SrJTUzIxAAAD8fcECAUHCc7QAAAQ8GoBAAAAgxwkk/HBAPUPnADKAQn1WACyAHALmAAq8PcHogA6ATkGivE/AX4B2wDkAfz1YQB+AHAL8AA28A8BYwBwAL4Hj/FYAPcPIACPARLynwACAQEHcgDN8QwPswClAMMP1fHMABUP0wDQAZT4VQA3AQUFmQBE8I0DSABCAU4MRPFGAQkMKQCHAQj6yABpAAsPSABC8fAMaADQAKwNn/EWAXYEpgDvAWz2zgC+AIYPoAA78AEN7QDUAFQPIfELAfYE6gB2AJD+owBZAfkBtQBe8XgLSQBjADgHwPE1AH4Bmuo7j3ECuZY8C6mf+wnU8B5+4fC5+AtsUn38gsYE/YYvEYlwKGj/kvMHHPS1hOf50QWNhlAGTv3cBpmDTQrAg/SNUQtSBG4KAfvGfLuWXYty+PcKmXO7+uITGZC8hun5EJhbKWsiGHxW4XwEzYyhiUQBP3TYiAEBQIGQBXqM2f9V/X4E9o0A5sYH0f7yekJ2xQgLdzdryG4IdTr4XHS9+cVn7HBmiuz3LQwF/Bx0fo+vAIoNu+gC7swWXA9KgCoEj/wpjE6MYQIBh58JmnarjX6GP3W+jmh65mf2Xwgg+AEB7xt1DQC+K0bCfDH//8JmBQBCLHcNdwYAxi0Jkv8H8SQ4dHwFAIAyaA9yBQDCM4MHjQTxbzd6wMDDOsEI8ZFE8P5UMZMJA3lEd8Ba/sQECwNhVPRG/kFdwwCLqnXD/f3AC8WQXwZFNUYUARKZk2hxdMA4/8LClQMDn2F6/QcAzKIG/A/BMwsAxGhFeMN5wfoHAMxsyUxD4QARd5D/fLvAfzIvEwEJlJwEwcKehoDB//zCAAkDRakDM8D/NtYBEVmjfouDd4U/xRHxRa/w/sTBO8D8wzL+VA0A6naWwnxmg/wFAM1+jMJmBADNwInCTgcDJMEQ/jb8EsQKtlFuwcGCZ8Gs/QXxisRpfsATxBHKV3+AkMCJwQVHBfHYzRrC/DjCALohAvw1wBIAncnhoChB/v3AwIUOAxvTl8T+xHQGi1fjAA/tq8JpB8CLZ33/CgCG7yP+KQz8WQ8Q9Aduh8AzlsLCwV8D1WMPhsADECcSgwQFE24C+v38/xLF/fRVeZhfkMDBP/8L4YkJ7cH+GzgLExsMoGfEkprAEGricf3B+wMQ4hl5DAsQ6ROX/jqnx30EEJgL/f31BBP1IQmHAxBn53rD9BEFKQbCRsEQQ90CWQQQkzexOgfhqTFmWwUQu1B5MSMHEAAwAzrDOPkRi1V3wPwE/IbyETk4Cf4D1SU69/4EEFU6DEMDE/Q8DMAFEBeJF8KOBBAkTRDD7w==</password>
+    <readOn>
+      <document id="1" />
+      <document id="2" />
+    </readOn>
+    <readOff>
+      <document id="3" />
+      <document id="4" />
+      <document id="5" />
+      <document id="6" />
+      <document id="7" />
+      <document id="8" />
+      <document id="9" />
+      <document id="10" />
+    </readOff>
+  </User>
+  <User id="6">
+    <username>Антон</username>
+    <login>anton</login>
+    <password>SiVTUzIxAAADZmUECAUHCc7QAAAQZ2oBAAAAg4sZVGbfAJsPagBFAJBpSwAaATUP5QAJZ0UJSwA2AekPPmY/AUkLhwCVAaFoQwA8AIQLIgBmZpkPXgCWANkPNWaVAIAPzgB3AJ1p0wDuAKIP0gAbZ1EG4ACAANsMl2Y9AJoPJACKAAdupACaACAPqgAmZycPiwBpANgPN2YlAUwP4QBcAKNrrQBQABwPlgBUZ6gGHABHAQ8FLA1KW6uDQXoTemBwuOqJC5ruUPRhnk8TweQV+zTjInro/1qgi3ye+XAdZ4Er8//v8H8sn3p/OYrqnoIDBQDy7rd/vgC+gLDnngenB4+HzAxBYm6IoYIti3aBBeYyfD8LZoF2h5QVdoQPBmODI/LJmIaEzo5KAuqEJnxoB1EjoYb7BKRvA4TKAneHv2CNG9IJroGSg7Z89KX3ASAyAQLdHKdtAZYAF/3Bn2L9agGIBBcww4v/RmoBbQkMNMGfbQVmsAwaQ8EPxV4NacD9wD/BajpXBGZEFAnA///yBgMzIwb9RQ8AkSgTmMM/R1ZBEcUqL5srV1z/RGDQACJTAf/+PlXCO0zCmWn/BABBPkVlEWYSSf3BMzIF//ymZVsMAChPxf78mME+WAgAr5UX/KbAwEEFAK2RIndxAQ9Y/f/++P8+PVnAW1sJAMZp8pgwwEIMAI6pHsOmwVjA/0UJxQJ2ksH+/UT+FsUCfJHA/S///ziPwFmmXAMA4IMmBAsDFoUc/8DASjrCw3ABAIvx//46/VtNVEVqwAUA8ZSDp5MWAAGV7e/9wJ1NWFhrfg7FYJp4WVTAwWTBzACr/B9i//5UCcWknUTBwFtUFwDEr+VI/v3+/kzABcBnp8HC/f0WAMW755n//f/8/zIF//ynXcBoFgAAB+k4m/z//Vj/wLFi/KYXAADK6zs4/f2Z/1ZqwGVdzQACsOP9//77LM0AULibwcLExHnLABqE9v/6KsBgAUAPZlrkJv/BZzvCwwYQABjb8P4//jCmecBZwQUA4O8MmPr/CgAm9dn/+JjB/8T9ygPVDAcp/gMAJ/8mOwUTfgdTbg4AJS0A+Zj/Q8HBwJDAECNqQv4kBRAmyTT/mv4IEE0cMAdngGARciYiwP8FwwB2MCdM/gQQ8idAmPwGEE83K0nA</password>
+    <readOn>
+      <document id="1" />
+      <document id="2" />
+      <document id="3" />
+      <document id="4" />
+      <document id="5" />
+      <document id="6" />
+      <document id="7" />
+      <document id="8" />
+      <document id="9" />
+      <document id="10" />
+    </readOn>
+    <readOff>
+    </readOff>
+  </User>
+</head>
